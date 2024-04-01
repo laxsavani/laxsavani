@@ -12,7 +12,7 @@
 ## 📫 How to reach me:
 
 [![Contact with me](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lax-savani-46694a282/) 
-[![Contact with me](https://skillicons.dev/icons?i=facebook)]([https://github.com/laxsavani/](https://www.facebook.com/lax.savani.3)) 
+[![Contact with me](https://skillicons.dev/icons?i=facebook)](https://www.facebook.com/lax.savani.3)
 [![Contact with me](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/lax.savani.official/)
 [![Contact with me](https://skillicons.dev/icons?i=github)](https://github.com/laxsavani/) 
 
