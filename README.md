@@ -1,6 +1,6 @@
 # Hi there 👋 I am Lax Savani
 
-*   😎  A MERN-Stack Developer
+*   😎  A Full-Stack Developer
 *   🌍  I'm based in Gujarat, India
 *   🖥️  Currently pursuing B.Tech IT
 *   🤝  I'm open to collaborating on interesting projects as a developer
