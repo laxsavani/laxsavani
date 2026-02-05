@@ -16,8 +16,8 @@
 [![Contact with me](https://skillicons.dev/icons?i=github)](https://github.com/laxsavani/) 
 
 ## My Portfolio
-![https://lax-savani-portfolio.vercel.app/]
-![https://lax-savani-portfolio.onrender.com/]
+*  https://lax-savani-portfolio.vercel.app/
+*  https://lax-savani-portfolio.onrender.com/
 <!--
 Here are some ideas to get you started:
 
