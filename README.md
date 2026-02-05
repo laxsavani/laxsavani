@@ -1,20 +1,23 @@
-# Hi there 👋 I am Lax Savani
+# I am Lax Savani
 
-*   😎  A Full-Stack Developer
-*   🌍  I'm based in Gujarat, India
-*   🖥️  Currently pursuing B.Tech IT
-*   🤝  I'm open to collaborating on interesting projects as a developer
+*   😎  A Backend Developer Developer
+*   🌍  Gujarat, India
+*   🖥️  B.Tech in Computer Engineering
+*   🔭 I’m currently working as Backend Developer
 
 ## :student: What i Know
 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,java,html,css,js,bootstrap,sass,nodejs,express,androidstudio,github,mongodb,mysql,postman,py,vscode,)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,java,html,css,js,bootstrap,nodejs,express,github,mongodb,mysql,postman,py,vscode)
 
 ## 📫 How to reach me:
 
-[![Contact with me](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lax-savani-46694a282/) 
-[![Contact with me](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/lax.savani.official/)
+[![Contact with me](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lax-savani/) 
+[![Contact with me](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/lax.savani.25/)
 [![Contact with me](https://skillicons.dev/icons?i=github)](https://github.com/laxsavani/) 
 
+## My Portfolio
+![https://lax-savani-portfolio.vercel.app/]
+![https://lax-savani-portfolio.onrender.com/]
 <!--
 Here are some ideas to get you started:
 
