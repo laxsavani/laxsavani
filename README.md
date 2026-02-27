@@ -1,6 +1,6 @@
 # I am Lax Savani
 
-*   😎  A Backend Developer Developer
+*   😎  A Backend Developer
 *   🌍  Gujarat, India
 *   🖥️  B.Tech in Computer Engineering
 *   🔭 I’m currently working as Backend Developer
