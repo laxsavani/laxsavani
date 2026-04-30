@@ -9,11 +9,13 @@
 </a>
 
 <br><br>
+</div>
 
+<div align="left">
 ### 👨‍💻 About Me
 <hr>
 
-I am a passionate **Backend Developer** from Gujarat, India. Holding a **B.Tech in Computer Engineering**, I am constantly exploring scalable system architectures and backend technologies.
+I am a **Backend Developer** from Surat, Gujarat, India. Holding a **B.Tech in Computer Engineering**, I am constantly exploring scalable system architectures and backend technologies.
 
 🔭 **Focus:** Backend Development & Scalability<br>
 🌱 **Learning:** New Tech & System Design<br>
