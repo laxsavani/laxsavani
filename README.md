@@ -19,48 +19,42 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Technical Skills
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py&theme=dark" alt="Languages" />
-  </a>
-  <br />
-  <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,express&theme=dark" alt="Web Dev" />
-  </a>
-  <br />
-  <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,vscode,github,postman&theme=dark" alt="Tools & Databases" />
-  </a>
-</div>
+#### 💻 Programming Languages
+- **C** / **C++**
+- **Java**
+- **Python**
+- **JavaScript**
 
----
+#### 🌐 Web Development
+- **Backend**: Node.js, Express.js
+- **Frontend**: HTML, CSS, Bootstrap
 
-### 📊 GitHub Stats
+#### 🗄️ Databases
+- **MongoDB** (NoSQL)
+- **MySQL** (Relational)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laxsavani&show_icons=true&theme=radical&hide_border=true" alt="Lax's GitHub Stats" />
-  <br />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laxsavani&theme=radical&hide_border=true" alt="Lax's GitHub Streak" />
-</div>
+#### 🔧 Tools & Platforms
+- **Git & GitHub**
+- **VS Code**
+- **Postman** (API Testing)
 
 ---
 
 ### 📫 Let's Connect!
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/lax-savani/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+<div align="left">
+  <a href="https://www.linkedin.com/in/lax-savani/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/laxsavani/">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  &nbsp;
+  <a href="https://github.com/laxsavani/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.instagram.com/lax.savani.09/">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  &nbsp;
+  <a href="https://www.instagram.com/lax.savani.09/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
 
