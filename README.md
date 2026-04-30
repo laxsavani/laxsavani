@@ -21,24 +21,20 @@
 
 ### 🛠️ Technical Skills
 
-#### 💻 Programming Languages
-- **C** / **C++**
-- **Java**
-- **Python**
-- **JavaScript**
+**💻 Programming Languages**<br>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py,js&theme=dark" alt="Programming Languages" />
+<br><br>
 
-#### 🌐 Web Development
-- **Backend**: Node.js, Express.js
-- **Frontend**: HTML, CSS, Bootstrap
+**🌐 Web Development**<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,html,css,bootstrap&theme=dark" alt="Web Development" />
+<br><br>
 
-#### 🗄️ Databases
-- **MongoDB** (NoSQL)
-- **MySQL** (Relational)
+**🗄️ Databases**<br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="Databases" />
+<br><br>
 
-#### 🔧 Tools & Platforms
-- **Git & GitHub**
-- **VS Code**
-- **Postman** (API Testing)
+**🔧 Tools & Platforms**<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools & Platforms" />
 
 ---
 
