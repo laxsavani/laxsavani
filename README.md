@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi!%20I'm%20Lax%20Savani&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Passionate%20Backend%20Developer%20%F0%9F%8C%8D&descAlignY=58&descAlign=50" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi!%20I'm%20Lax%20Savani&fontSize=45&animation=fadeIn&fontAlignY=38&desc=%20Backend%20Developer%20%F0%9F%8C%8D&descAlignY=58&descAlign=50" alt="Header Banner" />
 
 <br>
 
@@ -12,10 +12,11 @@
 </div>
 
 <div align="left">
+
 ### 👨‍💻 About Me
 <hr>
 
-I am a **Backend Developer** from Surat, Gujarat, India. Holding a **B.Tech in Computer Engineering**, I am constantly exploring scalable system architectures and backend technologies.
+I am a passionate **Backend Developer** from Gujarat, India. Holding a **B.Tech in Computer Engineering**, I am constantly exploring scalable system architectures and backend technologies.
 
 🔭 **Focus:** Backend Development & Scalability<br>
 🌱 **Learning:** New Tech & System Design<br>
